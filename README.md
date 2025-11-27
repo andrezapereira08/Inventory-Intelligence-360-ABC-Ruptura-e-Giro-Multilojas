@@ -173,4 +173,4 @@ Padronização de processos de estoque
 
 Tomada de decisão baseada em dados
 
-📚 Tecnologias Utilizadas
+
